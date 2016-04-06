@@ -11,11 +11,11 @@ http://www.semifluid.com/2014/04/20/equirectangular-to-stereographic-projections
 
 Before
 
-<img src="" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/delphinus1024/little_planets/master/original.jpg" style="width: 600px;"/>
 
 After ( ./little_planets.exe -W=2.4 ./original.jpg result.jpg)
 
-<img src="" style="width: 600px;"/>
+<img src="https://raw.githubusercontent.com/delphinus1024/little_planets/master/result.jpg" style="width: 600px;"/>
 
 ## Features
 
